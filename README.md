@@ -16,7 +16,7 @@ The ```functions.hs``` encompasses multiple approaches to Haskell programming:
 - Task 2 introduces three ```XOR``` functions (```xor1```, ```xor2```, and ```xor3```) that evaluate exclusive OR operations on boolean inputs through distinct approaches.
 - Task 3's ```sumsqr``` calculates the sum of squares for integers up to a given value.
 - Task 4's ```grid``` generates coordinate pairs within a specified range while excluding pairs with equal components.
-- Task 5 implements the Euclidean algorithm for finding the greatest common divisor.
+- Task 5 implements the Euclidean algorithm (```euclid```) for finding the greatest common divisor.
 - Task 6 offers an efficient list reversal function fastrev by utilizing an auxiliary recursive function ```rev```.
 
 ## String Compression
