@@ -20,5 +20,5 @@ The ```functions.hs``` encompasses multiple approaches to Haskell programming:
 - Task 6 offers an efficient list reversal function fastrev by utilizing an auxiliary recursive function ```rev```.
 
 ## String Compression
-
+The ```stingcompression.hs``` script implements a string compression and decompression system. It starts with functions like ```chomp``` and ```munch``` to group consecutive characters, followed by runs to segment strings into runs of repeated characters. The ```encode``` function creates character-frequency pairs, and ```flatten``` converts this data to a compressed string. The ```compress``` and ```decode``` functions respectively handle overall string compression and decompression. ```expand``` transforms compressed data into character-integer pairs, and ```decompress``` reverts compressed data to its original form. 
 
