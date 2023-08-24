@@ -6,7 +6,9 @@ To aid overall Haskell competency, here are some small and simple tasks inspired
 The ```basics.hs``` script consists of a set of functions for numerical operations. It includes functions to calculate double and quadruple values of a given number, as well as to determine the smallest and largest values between two numbers. 
 
 ## Types and Classes
-
+The ```typesclasses.hs``` script consists of:
+- Task 1, a series of type declarations (```e1```, ```e2```, ```e3```, ```e4```, ```e5```, ```e6```, ```e7```, and ```e8```) are defined with specific values or functions. These declarations encompass various types such as lists of booleans, nested lists of integers, tuples, functions, and more.
+- Task 2 introduces a set of functions (```copy```, ```one```, ```first```, ```second```, ```mult```) that showcase different functionalities, such as copying an input value, creating a list with a single element, extracting the first element from a tuple, selecting the second argument of a two-argument function, and defining a higher-order multiplication function.
 
 ## Functions
 The ```functions.hs``` encompasses multiple approaches to Haskell programming:
@@ -16,7 +18,6 @@ The ```functions.hs``` encompasses multiple approaches to Haskell programming:
 - Task 4's ```grid``` generates coordinate pairs within a specified range while excluding pairs with equal components.
 - Task 5 implements the Euclidean algorithm for finding the greatest common divisor.
 - Task 6 offers an efficient list reversal function fastrev by utilizing an auxiliary recursive function ```rev```.
-
 
 ## String Compression
 
